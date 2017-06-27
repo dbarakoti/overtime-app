@@ -4,8 +4,8 @@ Key requirement: company needs documentation that salaried employees did nor did
 
 ## Models
 - Post -> date:date rationale: text
-- User -> Devise 
-- AdminUser -> STI
+X User -> Devise 
+X AdminUser -> STI
 
 ## Features:
 -Approval Wrokflow
