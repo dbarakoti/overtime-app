@@ -10,8 +10,8 @@ X AdminUser -> STI
 ## Features:
 -Approval Wrokflow
 - SMS Sending -> link to apprval or overtime input
-- Administrate admin dashboard
-- Block non admin and guest user
+- X Administrate admin dashboard
+- X Block non admin and guest user
 - Email summary to managers for approval
 - Needs to be documented if employee did not log overtime
 
