@@ -22,3 +22,4 @@ X AdminUser -> STI
 
 ## Refactor TODOS:
 - Refactor user association intergration test in post_spec
+- Refactor posts/-form for admin user with status
