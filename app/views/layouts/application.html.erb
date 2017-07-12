@@ -9,7 +9,6 @@
   </head>
 
   <body class="container">
-
   <div class="row">
     <div class="col-md-12">
     <%= render 'shared/nav' %>
@@ -17,6 +16,8 @@
     </div>
   </div>
 </div>
-<%= js add_gritter(flash[:notice], title: "Overtime App Notification", sticky: false) %>
+
+  <%= render 'shared/alerts' %>
+
   </body>
 </html>
