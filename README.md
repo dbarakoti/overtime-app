@@ -8,7 +8,7 @@ X User -> Devise
 X AdminUser -> STI
 
 ## Features:
--Approval Wrokflow
+- Approval Wrokflow
 - SMS Sending -> link to apprval or overtime input
 - X Administrate admin dashboard
 - X Block non admin and guest user
@@ -21,7 +21,4 @@ X AdminUser -> STI
 - X Update the styles for forms
 
 ## Refactor TODOS:
-- Refactor user association intergration test in post_spec
 - Refactor posts/-form for admin user with status
-- fix post_spec.rb: 82 to refactor
-- fix post_spec.rb: 52 to have correct user reference and not require update
