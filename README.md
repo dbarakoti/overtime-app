@@ -6,6 +6,7 @@ Key requirement: company needs documentation that salaried employees did nor did
 X Post -> date:date rationale: text
 X User -> Devise 
 X AdminUser -> STI
+- Auditing
 
 ## Features:
 - Approval Wrokflow
@@ -17,7 +18,7 @@ X AdminUser -> STI
 
 ## UI:
 - x Bootstrap -> formatting
-- Icons from Font Awesome
+- X Icons from Font glyphicons
 - X Update the styles for forms
 
 ## Refactor TODOS:
