@@ -22,4 +22,5 @@ X AdminUser -> STI
 - X Update the styles for forms
 
 ## Refactor TODOS:
-- Refactor posts/-form for admin user with status
+- Integrate validation for phone attr in User:
+
