@@ -10,17 +10,12 @@ X AdminUser -> STI
 
 ## Features:
 - Approval Wrokflow
-- SMS Sending -> link to apprval or overtime input
+- SMS Sending -> link to apprval or overtime input -> integrate with Heroku scheduler
 - X Administrate admin dashboard
 - X Block non admin and guest user
 - Email summary to managers for approval
 - Needs to be documented if employee did not log overtime
 
-## UI:
-- x Bootstrap -> formatting
-- X Icons from Font glyphicons
-- X Update the styles for forms
-
 ## Refactor TODOS:
-- Integrate validation for phone attr in User:
+
 
