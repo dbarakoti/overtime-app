@@ -6,15 +6,15 @@ Key requirement: company needs documentation that salaried employees did nor did
 X Post -> date:date rationale: text
 X User -> Devise 
 X AdminUser -> STI
-- Auditing
+x Auditing
 
 ## Features:
-- Approval Wrokflow
+X Approval Wrokflow
 - SMS Sending -> link to apprval or overtime input -> integrate with Heroku scheduler
 - X Administrate admin dashboard
 - X Block non admin and guest user
 - Email summary to managers for approval
-- Needs to be documented if employee did not log overtime
+X Needs to be documented if employee did not log overtime
 
 ## Refactor TODOS:
 
