@@ -23,10 +23,10 @@ X Update buttons on employee homepage so they show mobile
 X Update buttons to include time span
 X Update buttons sort order on employee homepage
 X Remove unnecessary nav bar for managers
-- Fix admin dashboard bug.
+X Fix admin dashboard bug.
 - Implement Honeybadger error reporting
 - Implement new relic for keeping site alive
-- Check on data issue and verify correct hours are being tracted.
+
 
 ## Refactor TODOS:
 
